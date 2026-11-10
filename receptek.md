@@ -1,3 +1,3 @@
 # Kedvenc receptek
 
-- Palacsinta: lekváros és kakaós
+- Palacsinta: lekváros és kakaó
